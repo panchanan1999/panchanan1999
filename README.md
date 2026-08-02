@@ -1,6 +1,6 @@
 # 🚀 Automation Test Engineering Portfolio – Panchanan Mandal
 
-Senior SDET with 3.5+ years of experience designing, building, and maintaining scalable automation frameworks for **Web UI, APIs, and Databases**.
+Senior SDET with 4+ years of experience designing, building, and maintaining scalable automation frameworks for **Web UI, APIs, and Databases**.
 
 I specialize in building **robust, maintainable, and CI-ready automation solutions** that reduce regression time and increase release confidence.
 
